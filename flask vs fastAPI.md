@@ -46,7 +46,7 @@ You're comfortable using type hints and async.
 | Docs           | Automatic (Swagger, ReDoc)       | Manual / via plugins            |
 
 
-
+---
 
 
 
