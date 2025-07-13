@@ -1,3 +1,4 @@
+#CRUD OPERATION IN FASTAPI, HTTP METHODS , path query params
 from fastapi import FastAPI, Path, HTTPException, Query
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field, computed_field
