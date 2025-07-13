@@ -37,6 +37,16 @@ You're comfortable using type hints and async.
 
 
 
+| Feature         | FastAPI                          | Flask                           |
+|----------------|----------------------------------|---------------------------------|
+| Interface Type | **ASGI** (async-supported)       | **WSGI** (sync-based)           |
+| SGI Toolkit    | `starlette`                      | `werkzeug`                      |
+| Server         | `uvicorn` / `hypercorn`          | Built-in / `gunicorn`           |
+| Async Support  | Native                           | Limited / Experimental          |
+| Docs           | Automatic (Swagger, ReDoc)       | Manual / via plugins            |
+
+
+
 
 
 
